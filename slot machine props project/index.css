@@ -1,0 +1,11 @@
+.heading{
+	text-align:center;
+	
+}
+.mainbox{
+	height: 480px;
+	width: 400px;
+	border: 2px solid black;
+	margin: 0 auto;
+	text-align: center;
+}
