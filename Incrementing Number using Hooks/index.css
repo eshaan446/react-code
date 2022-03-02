@@ -1,0 +1,20 @@
+.maindiv{
+	text-align: center;
+	margin-top: 25%;
+
+
+}
+body{
+	background-color: skyblue;
+}
+button{
+	cursor: pointer;
+	padding: 1rem 1.5rem;
+	background-color:black;
+	color: white;
+	
+	
+}
+button:hover{
+	font-size: 0.9rem;
+}
