@@ -1,0 +1,25 @@
+body{
+	background-color: purple;
+}
+button{
+	cursor: pointer;
+	margin-top: 20px;
+}
+.container{
+	height: 400px;
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 18%;
+	text-align: center;
+	color: white;
+}
+input{
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	width: 300px;
+	border-radius: 10px;
+}
+#inp2{
+	margin-top: 15px;
+}
