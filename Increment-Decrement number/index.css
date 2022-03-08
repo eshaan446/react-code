@@ -1,0 +1,35 @@
+body{
+	background-color: skyblue;
+}
+.box{
+	height: 500px;
+	width: 400px;
+	border: 2px solid red;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 10px;
+	background-color: darkcyan;
+}
+.text{
+	display: block;
+	background-color: skyblue;
+	text-align: center;
+	margin-top: 230px;
+	font-size: 3rem;
+	
+}
+.inc{
+	margin-right: 200px;
+	background-color: green;
+}
+button{
+	height:40px ;
+	width: 80px;
+	color: white;
+	border-radius: 15px;
+	cursor: pointer;
+}
+.dec{
+	background-color: red;
+}
+
